@@ -1,8 +1,6 @@
 # premier league schedule to pdf
 
-a print-friendly premier league schedule. bilingual (english + 中文), big text,
-one matchweek per page, a 比分 box to write scores in by hand. made this so my
-dad can follow the season on paper.
+i vibe coded this for my gramps
 
 ![gameweek 1](screenshot.png)
 
