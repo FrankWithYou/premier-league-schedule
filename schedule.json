@@ -1,0 +1,3072 @@
+{
+  "competition": "English Premier League",
+  "competition_zh": "英格兰超级联赛",
+  "season": "2026/27",
+  "translations": {
+    "teams": {
+      "Bournemouth": "伯恩茅斯",
+      "Arsenal": "阿森纳",
+      "Aston Villa": "阿斯顿维拉",
+      "Brentford": "布伦特福德",
+      "Brighton": "布莱顿",
+      "Chelsea": "切尔西",
+      "Coventry": "考文垂",
+      "Crystal Palace": "水晶宫",
+      "Everton": "埃弗顿",
+      "Fulham": "富勒姆",
+      "Hull City": "赫尔城",
+      "Ipswich": "伊普斯维奇",
+      "Leeds": "利兹联",
+      "Liverpool": "利物浦",
+      "Man City": "曼城",
+      "Man Utd": "曼联",
+      "Newcastle": "纽卡斯尔",
+      "Nott'm Forest": "诺丁汉森林",
+      "Sunderland": "桑德兰",
+      "Tottenham": "托特纳姆热刺"
+    },
+    "venues": {}
+  },
+  "fixtures": [
+    {
+      "gameweek": 1,
+      "kickoff": "2026-08-21T19:00:00Z",
+      "home": "Arsenal",
+      "away": "Coventry",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Arsenal%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Coventry%20City.png"
+    },
+    {
+      "gameweek": 1,
+      "kickoff": "2026-08-22T11:30:00Z",
+      "home": "Hull City",
+      "away": "Man Utd",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Hull%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20United.png"
+    },
+    {
+      "gameweek": 1,
+      "kickoff": "2026-08-22T14:00:00Z",
+      "home": "Ipswich",
+      "away": "Sunderland",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Ipswich%20Town.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Sunderland%20AFC.png"
+    },
+    {
+      "gameweek": 1,
+      "kickoff": "2026-08-22T14:00:00Z",
+      "home": "Nott'm Forest",
+      "away": "Leeds",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Nottingham%20Forest.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Leeds%20United.png"
+    },
+    {
+      "gameweek": 1,
+      "kickoff": "2026-08-22T14:00:00Z",
+      "home": "Everton",
+      "away": "Crystal Palace",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Everton%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Crystal%20Palace.png"
+    },
+    {
+      "gameweek": 1,
+      "kickoff": "2026-08-22T16:30:00Z",
+      "home": "Brentford",
+      "away": "Tottenham",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brentford%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Tottenham%20Hotspur.png"
+    },
+    {
+      "gameweek": 1,
+      "kickoff": "2026-08-23T13:00:00Z",
+      "home": "Man City",
+      "away": "Bournemouth",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/AFC%20Bournemouth.png"
+    },
+    {
+      "gameweek": 1,
+      "kickoff": "2026-08-23T13:00:00Z",
+      "home": "Brighton",
+      "away": "Aston Villa",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brighton%20%26%20Hove%20Albion.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Aston%20Villa.png"
+    },
+    {
+      "gameweek": 1,
+      "kickoff": "2026-08-23T15:30:00Z",
+      "home": "Newcastle",
+      "away": "Liverpool",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Newcastle%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Liverpool%20FC.png"
+    },
+    {
+      "gameweek": 1,
+      "kickoff": "2026-08-24T19:00:00Z",
+      "home": "Fulham",
+      "away": "Chelsea",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Fulham%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Chelsea%20FC.png"
+    },
+    {
+      "gameweek": 2,
+      "kickoff": "2026-08-28T19:00:00Z",
+      "home": "Crystal Palace",
+      "away": "Man City",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Crystal%20Palace.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20City.png"
+    },
+    {
+      "gameweek": 2,
+      "kickoff": "2026-08-29T11:30:00Z",
+      "home": "Liverpool",
+      "away": "Nott'm Forest",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Liverpool%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Nottingham%20Forest.png"
+    },
+    {
+      "gameweek": 2,
+      "kickoff": "2026-08-29T14:00:00Z",
+      "home": "Bournemouth",
+      "away": "Everton",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/AFC%20Bournemouth.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Everton%20FC.png"
+    },
+    {
+      "gameweek": 2,
+      "kickoff": "2026-08-29T14:00:00Z",
+      "home": "Coventry",
+      "away": "Hull City",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Coventry%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Hull%20City.png"
+    },
+    {
+      "gameweek": 2,
+      "kickoff": "2026-08-29T16:30:00Z",
+      "home": "Tottenham",
+      "away": "Newcastle",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Tottenham%20Hotspur.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Newcastle%20United.png"
+    },
+    {
+      "gameweek": 2,
+      "kickoff": "2026-08-30T13:00:00Z",
+      "home": "Sunderland",
+      "away": "Fulham",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Sunderland%20AFC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Fulham%20FC.png"
+    },
+    {
+      "gameweek": 2,
+      "kickoff": "2026-08-30T13:00:00Z",
+      "home": "Chelsea",
+      "away": "Brighton",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Chelsea%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brighton%20%26%20Hove%20Albion.png"
+    },
+    {
+      "gameweek": 2,
+      "kickoff": "2026-08-30T13:00:00Z",
+      "home": "Leeds",
+      "away": "Brentford",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Leeds%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brentford%20FC.png"
+    },
+    {
+      "gameweek": 2,
+      "kickoff": "2026-08-30T15:30:00Z",
+      "home": "Man Utd",
+      "away": "Ipswich",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Ipswich%20Town.png"
+    },
+    {
+      "gameweek": 2,
+      "kickoff": "2026-08-31T19:00:00Z",
+      "home": "Aston Villa",
+      "away": "Arsenal",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Aston%20Villa.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Arsenal%20FC.png"
+    },
+    {
+      "gameweek": 3,
+      "kickoff": "2026-09-04T19:00:00Z",
+      "home": "Ipswich",
+      "away": "Liverpool",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Ipswich%20Town.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Liverpool%20FC.png"
+    },
+    {
+      "gameweek": 3,
+      "kickoff": "2026-09-05T11:30:00Z",
+      "home": "Newcastle",
+      "away": "Bournemouth",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Newcastle%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/AFC%20Bournemouth.png"
+    },
+    {
+      "gameweek": 3,
+      "kickoff": "2026-09-05T14:00:00Z",
+      "home": "Nott'm Forest",
+      "away": "Tottenham",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Nottingham%20Forest.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Tottenham%20Hotspur.png"
+    },
+    {
+      "gameweek": 3,
+      "kickoff": "2026-09-05T14:00:00Z",
+      "home": "Man City",
+      "away": "Coventry",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Coventry%20City.png"
+    },
+    {
+      "gameweek": 3,
+      "kickoff": "2026-09-05T14:00:00Z",
+      "home": "Brighton",
+      "away": "Leeds",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brighton%20%26%20Hove%20Albion.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Leeds%20United.png"
+    },
+    {
+      "gameweek": 3,
+      "kickoff": "2026-09-05T14:00:00Z",
+      "home": "Brentford",
+      "away": "Sunderland",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brentford%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Sunderland%20AFC.png"
+    },
+    {
+      "gameweek": 3,
+      "kickoff": "2026-09-05T14:00:00Z",
+      "home": "Fulham",
+      "away": "Crystal Palace",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Fulham%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Crystal%20Palace.png"
+    },
+    {
+      "gameweek": 3,
+      "kickoff": "2026-09-05T16:30:00Z",
+      "home": "Hull City",
+      "away": "Aston Villa",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Hull%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Aston%20Villa.png"
+    },
+    {
+      "gameweek": 3,
+      "kickoff": "2026-09-06T13:00:00Z",
+      "home": "Everton",
+      "away": "Man Utd",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Everton%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20United.png"
+    },
+    {
+      "gameweek": 3,
+      "kickoff": "2026-09-06T15:30:00Z",
+      "home": "Arsenal",
+      "away": "Chelsea",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Arsenal%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Chelsea%20FC.png"
+    },
+    {
+      "gameweek": 4,
+      "kickoff": "2026-09-12T14:00:00Z",
+      "home": "Crystal Palace",
+      "away": "Ipswich",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Crystal%20Palace.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Ipswich%20Town.png"
+    },
+    {
+      "gameweek": 4,
+      "kickoff": "2026-09-12T14:00:00Z",
+      "home": "Liverpool",
+      "away": "Fulham",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Liverpool%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Fulham%20FC.png"
+    },
+    {
+      "gameweek": 4,
+      "kickoff": "2026-09-12T14:00:00Z",
+      "home": "Aston Villa",
+      "away": "Nott'm Forest",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Aston%20Villa.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Nottingham%20Forest.png"
+    },
+    {
+      "gameweek": 4,
+      "kickoff": "2026-09-12T14:00:00Z",
+      "home": "Bournemouth",
+      "away": "Brentford",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/AFC%20Bournemouth.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brentford%20FC.png"
+    },
+    {
+      "gameweek": 4,
+      "kickoff": "2026-09-12T14:00:00Z",
+      "home": "Chelsea",
+      "away": "Hull City",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Chelsea%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Hull%20City.png"
+    },
+    {
+      "gameweek": 4,
+      "kickoff": "2026-09-12T16:30:00Z",
+      "home": "Tottenham",
+      "away": "Everton",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Tottenham%20Hotspur.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Everton%20FC.png"
+    },
+    {
+      "gameweek": 4,
+      "kickoff": "2026-09-12T19:00:00Z",
+      "home": "Sunderland",
+      "away": "Arsenal",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Sunderland%20AFC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Arsenal%20FC.png"
+    },
+    {
+      "gameweek": 4,
+      "kickoff": "2026-09-13T13:00:00Z",
+      "home": "Coventry",
+      "away": "Brighton",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Coventry%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brighton%20%26%20Hove%20Albion.png"
+    },
+    {
+      "gameweek": 4,
+      "kickoff": "2026-09-13T15:30:00Z",
+      "home": "Man Utd",
+      "away": "Man City",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20City.png"
+    },
+    {
+      "gameweek": 4,
+      "kickoff": "2026-09-14T19:00:00Z",
+      "home": "Leeds",
+      "away": "Newcastle",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Leeds%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Newcastle%20United.png"
+    },
+    {
+      "gameweek": 5,
+      "kickoff": "2026-09-18T19:00:00Z",
+      "home": "Brentford",
+      "away": "Chelsea",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brentford%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Chelsea%20FC.png"
+    },
+    {
+      "gameweek": 5,
+      "kickoff": "2026-09-19T11:30:00Z",
+      "home": "Tottenham",
+      "away": "Aston Villa",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Tottenham%20Hotspur.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Aston%20Villa.png"
+    },
+    {
+      "gameweek": 5,
+      "kickoff": "2026-09-19T14:00:00Z",
+      "home": "Everton",
+      "away": "Ipswich",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Everton%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Ipswich%20Town.png"
+    },
+    {
+      "gameweek": 5,
+      "kickoff": "2026-09-19T14:00:00Z",
+      "home": "Brighton",
+      "away": "Arsenal",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brighton%20%26%20Hove%20Albion.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Arsenal%20FC.png"
+    },
+    {
+      "gameweek": 5,
+      "kickoff": "2026-09-19T14:00:00Z",
+      "home": "Newcastle",
+      "away": "Hull City",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Newcastle%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Hull%20City.png"
+    },
+    {
+      "gameweek": 5,
+      "kickoff": "2026-09-19T16:30:00Z",
+      "home": "Nott'm Forest",
+      "away": "Coventry",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Nottingham%20Forest.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Coventry%20City.png"
+    },
+    {
+      "gameweek": 5,
+      "kickoff": "2026-09-20T13:00:00Z",
+      "home": "Bournemouth",
+      "away": "Liverpool",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/AFC%20Bournemouth.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Liverpool%20FC.png"
+    },
+    {
+      "gameweek": 5,
+      "kickoff": "2026-09-20T13:00:00Z",
+      "home": "Leeds",
+      "away": "Crystal Palace",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Leeds%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Crystal%20Palace.png"
+    },
+    {
+      "gameweek": 5,
+      "kickoff": "2026-09-20T13:00:00Z",
+      "home": "Man City",
+      "away": "Sunderland",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Sunderland%20AFC.png"
+    },
+    {
+      "gameweek": 5,
+      "kickoff": "2026-09-20T15:30:00Z",
+      "home": "Fulham",
+      "away": "Man Utd",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Fulham%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20United.png"
+    },
+    {
+      "gameweek": 6,
+      "kickoff": "2026-10-10T11:30:00Z",
+      "home": "Arsenal",
+      "away": "Leeds",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Arsenal%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Leeds%20United.png"
+    },
+    {
+      "gameweek": 6,
+      "kickoff": "2026-10-10T14:00:00Z",
+      "home": "Sunderland",
+      "away": "Brighton",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Sunderland%20AFC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brighton%20%26%20Hove%20Albion.png"
+    },
+    {
+      "gameweek": 6,
+      "kickoff": "2026-10-10T14:00:00Z",
+      "home": "Chelsea",
+      "away": "Bournemouth",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Chelsea%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/AFC%20Bournemouth.png"
+    },
+    {
+      "gameweek": 6,
+      "kickoff": "2026-10-10T14:00:00Z",
+      "home": "Ipswich",
+      "away": "Fulham",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Ipswich%20Town.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Fulham%20FC.png"
+    },
+    {
+      "gameweek": 6,
+      "kickoff": "2026-10-10T14:00:00Z",
+      "home": "Aston Villa",
+      "away": "Brentford",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Aston%20Villa.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brentford%20FC.png"
+    },
+    {
+      "gameweek": 6,
+      "kickoff": "2026-10-10T16:30:00Z",
+      "home": "Man Utd",
+      "away": "Tottenham",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Tottenham%20Hotspur.png"
+    },
+    {
+      "gameweek": 6,
+      "kickoff": "2026-10-11T13:00:00Z",
+      "home": "Hull City",
+      "away": "Everton",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Hull%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Everton%20FC.png"
+    },
+    {
+      "gameweek": 6,
+      "kickoff": "2026-10-11T13:00:00Z",
+      "home": "Crystal Palace",
+      "away": "Nott'm Forest",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Crystal%20Palace.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Nottingham%20Forest.png"
+    },
+    {
+      "gameweek": 6,
+      "kickoff": "2026-10-11T15:30:00Z",
+      "home": "Liverpool",
+      "away": "Man City",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Liverpool%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20City.png"
+    },
+    {
+      "gameweek": 6,
+      "kickoff": "2026-10-12T19:00:00Z",
+      "home": "Coventry",
+      "away": "Newcastle",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Coventry%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Newcastle%20United.png"
+    },
+    {
+      "gameweek": 7,
+      "kickoff": "2026-10-17T11:30:00Z",
+      "home": "Everton",
+      "away": "Chelsea",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Everton%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Chelsea%20FC.png"
+    },
+    {
+      "gameweek": 7,
+      "kickoff": "2026-10-17T14:00:00Z",
+      "home": "Fulham",
+      "away": "Hull City",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Fulham%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Hull%20City.png"
+    },
+    {
+      "gameweek": 7,
+      "kickoff": "2026-10-17T14:00:00Z",
+      "home": "Man City",
+      "away": "Ipswich",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Ipswich%20Town.png"
+    },
+    {
+      "gameweek": 7,
+      "kickoff": "2026-10-17T14:00:00Z",
+      "home": "Brentford",
+      "away": "Liverpool",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brentford%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Liverpool%20FC.png"
+    },
+    {
+      "gameweek": 7,
+      "kickoff": "2026-10-17T16:30:00Z",
+      "home": "Newcastle",
+      "away": "Aston Villa",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Newcastle%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Aston%20Villa.png"
+    },
+    {
+      "gameweek": 7,
+      "kickoff": "2026-10-18T13:00:00Z",
+      "home": "Bournemouth",
+      "away": "Sunderland",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/AFC%20Bournemouth.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Sunderland%20AFC.png"
+    },
+    {
+      "gameweek": 7,
+      "kickoff": "2026-10-18T13:00:00Z",
+      "home": "Leeds",
+      "away": "Man Utd",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Leeds%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20United.png"
+    },
+    {
+      "gameweek": 7,
+      "kickoff": "2026-10-18T13:00:00Z",
+      "home": "Brighton",
+      "away": "Crystal Palace",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brighton%20%26%20Hove%20Albion.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Crystal%20Palace.png"
+    },
+    {
+      "gameweek": 7,
+      "kickoff": "2026-10-18T15:30:00Z",
+      "home": "Nott'm Forest",
+      "away": "Arsenal",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Nottingham%20Forest.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Arsenal%20FC.png"
+    },
+    {
+      "gameweek": 7,
+      "kickoff": "2026-10-19T19:00:00Z",
+      "home": "Tottenham",
+      "away": "Coventry",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Tottenham%20Hotspur.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Coventry%20City.png"
+    },
+    {
+      "gameweek": 8,
+      "kickoff": "2026-10-23T19:00:00Z",
+      "home": "Ipswich",
+      "away": "Nott'm Forest",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Ipswich%20Town.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Nottingham%20Forest.png"
+    },
+    {
+      "gameweek": 8,
+      "kickoff": "2026-10-24T11:30:00Z",
+      "home": "Aston Villa",
+      "away": "Man City",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Aston%20Villa.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20City.png"
+    },
+    {
+      "gameweek": 8,
+      "kickoff": "2026-10-24T14:00:00Z",
+      "home": "Arsenal",
+      "away": "Everton",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Arsenal%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Everton%20FC.png"
+    },
+    {
+      "gameweek": 8,
+      "kickoff": "2026-10-24T14:00:00Z",
+      "home": "Coventry",
+      "away": "Fulham",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Coventry%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Fulham%20FC.png"
+    },
+    {
+      "gameweek": 8,
+      "kickoff": "2026-10-24T16:30:00Z",
+      "home": "Chelsea",
+      "away": "Tottenham",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Chelsea%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Tottenham%20Hotspur.png"
+    },
+    {
+      "gameweek": 8,
+      "kickoff": "2026-10-25T14:00:00Z",
+      "home": "Liverpool",
+      "away": "Brighton",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Liverpool%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brighton%20%26%20Hove%20Albion.png"
+    },
+    {
+      "gameweek": 8,
+      "kickoff": "2026-10-25T14:00:00Z",
+      "home": "Crystal Palace",
+      "away": "Newcastle",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Crystal%20Palace.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Newcastle%20United.png"
+    },
+    {
+      "gameweek": 8,
+      "kickoff": "2026-10-25T14:00:00Z",
+      "home": "Man Utd",
+      "away": "Bournemouth",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/AFC%20Bournemouth.png"
+    },
+    {
+      "gameweek": 8,
+      "kickoff": "2026-10-25T14:00:00Z",
+      "home": "Hull City",
+      "away": "Brentford",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Hull%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brentford%20FC.png"
+    },
+    {
+      "gameweek": 8,
+      "kickoff": "2026-10-25T16:30:00Z",
+      "home": "Sunderland",
+      "away": "Leeds",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Sunderland%20AFC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Leeds%20United.png"
+    },
+    {
+      "gameweek": 9,
+      "kickoff": "2026-10-31T12:30:00Z",
+      "home": "Chelsea",
+      "away": "Man Utd",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Chelsea%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20United.png"
+    },
+    {
+      "gameweek": 9,
+      "kickoff": "2026-10-31T15:00:00Z",
+      "home": "Man City",
+      "away": "Brighton",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brighton%20%26%20Hove%20Albion.png"
+    },
+    {
+      "gameweek": 9,
+      "kickoff": "2026-10-31T15:00:00Z",
+      "home": "Bournemouth",
+      "away": "Leeds",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/AFC%20Bournemouth.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Leeds%20United.png"
+    },
+    {
+      "gameweek": 9,
+      "kickoff": "2026-10-31T15:00:00Z",
+      "home": "Coventry",
+      "away": "Sunderland",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Coventry%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Sunderland%20AFC.png"
+    },
+    {
+      "gameweek": 9,
+      "kickoff": "2026-10-31T15:00:00Z",
+      "home": "Hull City",
+      "away": "Ipswich",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Hull%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Ipswich%20Town.png"
+    },
+    {
+      "gameweek": 9,
+      "kickoff": "2026-10-31T15:00:00Z",
+      "home": "Brentford",
+      "away": "Nott'm Forest",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brentford%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Nottingham%20Forest.png"
+    },
+    {
+      "gameweek": 9,
+      "kickoff": "2026-10-31T17:30:00Z",
+      "home": "Tottenham",
+      "away": "Crystal Palace",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Tottenham%20Hotspur.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Crystal%20Palace.png"
+    },
+    {
+      "gameweek": 9,
+      "kickoff": "2026-10-31T20:00:00Z",
+      "home": "Aston Villa",
+      "away": "Fulham",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Aston%20Villa.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Fulham%20FC.png"
+    },
+    {
+      "gameweek": 9,
+      "kickoff": "2026-11-01T16:30:00Z",
+      "home": "Liverpool",
+      "away": "Arsenal",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Liverpool%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Arsenal%20FC.png"
+    },
+    {
+      "gameweek": 9,
+      "kickoff": "2026-11-02T20:00:00Z",
+      "home": "Newcastle",
+      "away": "Everton",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Newcastle%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Everton%20FC.png"
+    },
+    {
+      "gameweek": 10,
+      "kickoff": "2026-11-07T15:00:00Z",
+      "home": "Arsenal",
+      "away": "Hull City",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Arsenal%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Hull%20City.png"
+    },
+    {
+      "gameweek": 10,
+      "kickoff": "2026-11-07T15:00:00Z",
+      "home": "Nott'm Forest",
+      "away": "Man City",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Nottingham%20Forest.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20City.png"
+    },
+    {
+      "gameweek": 10,
+      "kickoff": "2026-11-07T15:00:00Z",
+      "home": "Leeds",
+      "away": "Tottenham",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Leeds%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Tottenham%20Hotspur.png"
+    },
+    {
+      "gameweek": 10,
+      "kickoff": "2026-11-07T15:00:00Z",
+      "home": "Fulham",
+      "away": "Newcastle",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Fulham%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Newcastle%20United.png"
+    },
+    {
+      "gameweek": 10,
+      "kickoff": "2026-11-07T15:00:00Z",
+      "home": "Everton",
+      "away": "Coventry",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Everton%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Coventry%20City.png"
+    },
+    {
+      "gameweek": 10,
+      "kickoff": "2026-11-07T15:00:00Z",
+      "home": "Crystal Palace",
+      "away": "Liverpool",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Crystal%20Palace.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Liverpool%20FC.png"
+    },
+    {
+      "gameweek": 10,
+      "kickoff": "2026-11-07T15:00:00Z",
+      "home": "Sunderland",
+      "away": "Chelsea",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Sunderland%20AFC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Chelsea%20FC.png"
+    },
+    {
+      "gameweek": 10,
+      "kickoff": "2026-11-07T15:00:00Z",
+      "home": "Ipswich",
+      "away": "Bournemouth",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Ipswich%20Town.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/AFC%20Bournemouth.png"
+    },
+    {
+      "gameweek": 10,
+      "kickoff": "2026-11-07T15:00:00Z",
+      "home": "Brighton",
+      "away": "Brentford",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brighton%20%26%20Hove%20Albion.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brentford%20FC.png"
+    },
+    {
+      "gameweek": 10,
+      "kickoff": "2026-11-07T15:00:00Z",
+      "home": "Man Utd",
+      "away": "Aston Villa",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Aston%20Villa.png"
+    },
+    {
+      "gameweek": 11,
+      "kickoff": "2026-11-21T15:00:00Z",
+      "home": "Chelsea",
+      "away": "Leeds",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Chelsea%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Leeds%20United.png"
+    },
+    {
+      "gameweek": 11,
+      "kickoff": "2026-11-21T15:00:00Z",
+      "home": "Man City",
+      "away": "Fulham",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Fulham%20FC.png"
+    },
+    {
+      "gameweek": 11,
+      "kickoff": "2026-11-21T15:00:00Z",
+      "home": "Aston Villa",
+      "away": "Sunderland",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Aston%20Villa.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Sunderland%20AFC.png"
+    },
+    {
+      "gameweek": 11,
+      "kickoff": "2026-11-21T15:00:00Z",
+      "home": "Liverpool",
+      "away": "Man Utd",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Liverpool%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20United.png"
+    },
+    {
+      "gameweek": 11,
+      "kickoff": "2026-11-21T15:00:00Z",
+      "home": "Hull City",
+      "away": "Brighton",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Hull%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brighton%20%26%20Hove%20Albion.png"
+    },
+    {
+      "gameweek": 11,
+      "kickoff": "2026-11-21T15:00:00Z",
+      "home": "Bournemouth",
+      "away": "Nott'm Forest",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/AFC%20Bournemouth.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Nottingham%20Forest.png"
+    },
+    {
+      "gameweek": 11,
+      "kickoff": "2026-11-21T15:00:00Z",
+      "home": "Tottenham",
+      "away": "Ipswich",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Tottenham%20Hotspur.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Ipswich%20Town.png"
+    },
+    {
+      "gameweek": 11,
+      "kickoff": "2026-11-21T15:00:00Z",
+      "home": "Brentford",
+      "away": "Everton",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brentford%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Everton%20FC.png"
+    },
+    {
+      "gameweek": 11,
+      "kickoff": "2026-11-21T15:00:00Z",
+      "home": "Coventry",
+      "away": "Crystal Palace",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Coventry%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Crystal%20Palace.png"
+    },
+    {
+      "gameweek": 11,
+      "kickoff": "2026-11-21T15:00:00Z",
+      "home": "Newcastle",
+      "away": "Arsenal",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Newcastle%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Arsenal%20FC.png"
+    },
+    {
+      "gameweek": 12,
+      "kickoff": "2026-11-28T15:00:00Z",
+      "home": "Leeds",
+      "away": "Coventry",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Leeds%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Coventry%20City.png"
+    },
+    {
+      "gameweek": 12,
+      "kickoff": "2026-11-28T15:00:00Z",
+      "home": "Ipswich",
+      "away": "Aston Villa",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Ipswich%20Town.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Aston%20Villa.png"
+    },
+    {
+      "gameweek": 12,
+      "kickoff": "2026-11-28T15:00:00Z",
+      "home": "Arsenal",
+      "away": "Man City",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Arsenal%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20City.png"
+    },
+    {
+      "gameweek": 12,
+      "kickoff": "2026-11-28T15:00:00Z",
+      "home": "Man Utd",
+      "away": "Brentford",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brentford%20FC.png"
+    },
+    {
+      "gameweek": 12,
+      "kickoff": "2026-11-28T15:00:00Z",
+      "home": "Everton",
+      "away": "Liverpool",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Everton%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Liverpool%20FC.png"
+    },
+    {
+      "gameweek": 12,
+      "kickoff": "2026-11-28T15:00:00Z",
+      "home": "Fulham",
+      "away": "Bournemouth",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Fulham%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/AFC%20Bournemouth.png"
+    },
+    {
+      "gameweek": 12,
+      "kickoff": "2026-11-28T15:00:00Z",
+      "home": "Nott'm Forest",
+      "away": "Chelsea",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Nottingham%20Forest.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Chelsea%20FC.png"
+    },
+    {
+      "gameweek": 12,
+      "kickoff": "2026-11-28T15:00:00Z",
+      "home": "Brighton",
+      "away": "Newcastle",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brighton%20%26%20Hove%20Albion.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Newcastle%20United.png"
+    },
+    {
+      "gameweek": 12,
+      "kickoff": "2026-11-28T15:00:00Z",
+      "home": "Sunderland",
+      "away": "Tottenham",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Sunderland%20AFC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Tottenham%20Hotspur.png"
+    },
+    {
+      "gameweek": 12,
+      "kickoff": "2026-11-28T15:00:00Z",
+      "home": "Crystal Palace",
+      "away": "Hull City",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Crystal%20Palace.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Hull%20City.png"
+    },
+    {
+      "gameweek": 13,
+      "kickoff": "2026-12-02T20:00:00Z",
+      "home": "Tottenham",
+      "away": "Fulham",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Tottenham%20Hotspur.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Fulham%20FC.png"
+    },
+    {
+      "gameweek": 13,
+      "kickoff": "2026-12-02T20:00:00Z",
+      "home": "Liverpool",
+      "away": "Sunderland",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Liverpool%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Sunderland%20AFC.png"
+    },
+    {
+      "gameweek": 13,
+      "kickoff": "2026-12-02T20:00:00Z",
+      "home": "Hull City",
+      "away": "Nott'm Forest",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Hull%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Nottingham%20Forest.png"
+    },
+    {
+      "gameweek": 13,
+      "kickoff": "2026-12-02T20:00:00Z",
+      "home": "Chelsea",
+      "away": "Crystal Palace",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Chelsea%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Crystal%20Palace.png"
+    },
+    {
+      "gameweek": 13,
+      "kickoff": "2026-12-02T20:00:00Z",
+      "home": "Aston Villa",
+      "away": "Everton",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Aston%20Villa.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Everton%20FC.png"
+    },
+    {
+      "gameweek": 13,
+      "kickoff": "2026-12-02T20:00:00Z",
+      "home": "Brentford",
+      "away": "Arsenal",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brentford%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Arsenal%20FC.png"
+    },
+    {
+      "gameweek": 13,
+      "kickoff": "2026-12-02T20:00:00Z",
+      "home": "Coventry",
+      "away": "Ipswich",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Coventry%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Ipswich%20Town.png"
+    },
+    {
+      "gameweek": 13,
+      "kickoff": "2026-12-02T20:00:00Z",
+      "home": "Man City",
+      "away": "Leeds",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Leeds%20United.png"
+    },
+    {
+      "gameweek": 13,
+      "kickoff": "2026-12-02T20:00:00Z",
+      "home": "Newcastle",
+      "away": "Man Utd",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Newcastle%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20United.png"
+    },
+    {
+      "gameweek": 13,
+      "kickoff": "2026-12-02T20:00:00Z",
+      "home": "Bournemouth",
+      "away": "Brighton",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/AFC%20Bournemouth.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brighton%20%26%20Hove%20Albion.png"
+    },
+    {
+      "gameweek": 14,
+      "kickoff": "2026-12-05T15:00:00Z",
+      "home": "Tottenham",
+      "away": "Arsenal",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Tottenham%20Hotspur.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Arsenal%20FC.png"
+    },
+    {
+      "gameweek": 14,
+      "kickoff": "2026-12-05T15:00:00Z",
+      "home": "Man Utd",
+      "away": "Coventry",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Coventry%20City.png"
+    },
+    {
+      "gameweek": 14,
+      "kickoff": "2026-12-05T15:00:00Z",
+      "home": "Leeds",
+      "away": "Ipswich",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Leeds%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Ipswich%20Town.png"
+    },
+    {
+      "gameweek": 14,
+      "kickoff": "2026-12-05T15:00:00Z",
+      "home": "Newcastle",
+      "away": "Sunderland",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Newcastle%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Sunderland%20AFC.png"
+    },
+    {
+      "gameweek": 14,
+      "kickoff": "2026-12-05T15:00:00Z",
+      "home": "Chelsea",
+      "away": "Liverpool",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Chelsea%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Liverpool%20FC.png"
+    },
+    {
+      "gameweek": 14,
+      "kickoff": "2026-12-05T15:00:00Z",
+      "home": "Brentford",
+      "away": "Man City",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brentford%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20City.png"
+    },
+    {
+      "gameweek": 14,
+      "kickoff": "2026-12-05T15:00:00Z",
+      "home": "Bournemouth",
+      "away": "Hull City",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/AFC%20Bournemouth.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Hull%20City.png"
+    },
+    {
+      "gameweek": 14,
+      "kickoff": "2026-12-05T15:00:00Z",
+      "home": "Aston Villa",
+      "away": "Crystal Palace",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Aston%20Villa.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Crystal%20Palace.png"
+    },
+    {
+      "gameweek": 14,
+      "kickoff": "2026-12-05T15:00:00Z",
+      "home": "Nott'm Forest",
+      "away": "Brighton",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Nottingham%20Forest.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brighton%20%26%20Hove%20Albion.png"
+    },
+    {
+      "gameweek": 14,
+      "kickoff": "2026-12-05T15:00:00Z",
+      "home": "Everton",
+      "away": "Fulham",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Everton%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Fulham%20FC.png"
+    },
+    {
+      "gameweek": 15,
+      "kickoff": "2026-12-12T15:00:00Z",
+      "home": "Sunderland",
+      "away": "Nott'm Forest",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Sunderland%20AFC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Nottingham%20Forest.png"
+    },
+    {
+      "gameweek": 15,
+      "kickoff": "2026-12-12T15:00:00Z",
+      "home": "Crystal Palace",
+      "away": "Man Utd",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Crystal%20Palace.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20United.png"
+    },
+    {
+      "gameweek": 15,
+      "kickoff": "2026-12-12T15:00:00Z",
+      "home": "Hull City",
+      "away": "Tottenham",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Hull%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Tottenham%20Hotspur.png"
+    },
+    {
+      "gameweek": 15,
+      "kickoff": "2026-12-12T15:00:00Z",
+      "home": "Brighton",
+      "away": "Everton",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brighton%20%26%20Hove%20Albion.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Everton%20FC.png"
+    },
+    {
+      "gameweek": 15,
+      "kickoff": "2026-12-12T15:00:00Z",
+      "home": "Ipswich",
+      "away": "Newcastle",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Ipswich%20Town.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Newcastle%20United.png"
+    },
+    {
+      "gameweek": 15,
+      "kickoff": "2026-12-12T15:00:00Z",
+      "home": "Coventry",
+      "away": "Aston Villa",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Coventry%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Aston%20Villa.png"
+    },
+    {
+      "gameweek": 15,
+      "kickoff": "2026-12-12T15:00:00Z",
+      "home": "Arsenal",
+      "away": "Bournemouth",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Arsenal%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/AFC%20Bournemouth.png"
+    },
+    {
+      "gameweek": 15,
+      "kickoff": "2026-12-12T15:00:00Z",
+      "home": "Man City",
+      "away": "Chelsea",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Chelsea%20FC.png"
+    },
+    {
+      "gameweek": 15,
+      "kickoff": "2026-12-12T15:00:00Z",
+      "home": "Liverpool",
+      "away": "Leeds",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Liverpool%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Leeds%20United.png"
+    },
+    {
+      "gameweek": 15,
+      "kickoff": "2026-12-12T15:00:00Z",
+      "home": "Fulham",
+      "away": "Brentford",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Fulham%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brentford%20FC.png"
+    },
+    {
+      "gameweek": 16,
+      "kickoff": "2026-12-19T15:00:00Z",
+      "home": "Leeds",
+      "away": "Fulham",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Leeds%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Fulham%20FC.png"
+    },
+    {
+      "gameweek": 16,
+      "kickoff": "2026-12-19T15:00:00Z",
+      "home": "Brighton",
+      "away": "Ipswich",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brighton%20%26%20Hove%20Albion.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Ipswich%20Town.png"
+    },
+    {
+      "gameweek": 16,
+      "kickoff": "2026-12-19T15:00:00Z",
+      "home": "Nott'm Forest",
+      "away": "Everton",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Nottingham%20Forest.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Everton%20FC.png"
+    },
+    {
+      "gameweek": 16,
+      "kickoff": "2026-12-19T15:00:00Z",
+      "home": "Brentford",
+      "away": "Newcastle",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brentford%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Newcastle%20United.png"
+    },
+    {
+      "gameweek": 16,
+      "kickoff": "2026-12-19T15:00:00Z",
+      "home": "Man City",
+      "away": "Hull City",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Hull%20City.png"
+    },
+    {
+      "gameweek": 16,
+      "kickoff": "2026-12-19T15:00:00Z",
+      "home": "Sunderland",
+      "away": "Crystal Palace",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Sunderland%20AFC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Crystal%20Palace.png"
+    },
+    {
+      "gameweek": 16,
+      "kickoff": "2026-12-19T15:00:00Z",
+      "home": "Bournemouth",
+      "away": "Coventry",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/AFC%20Bournemouth.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Coventry%20City.png"
+    },
+    {
+      "gameweek": 16,
+      "kickoff": "2026-12-19T15:00:00Z",
+      "home": "Arsenal",
+      "away": "Man Utd",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Arsenal%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20United.png"
+    },
+    {
+      "gameweek": 16,
+      "kickoff": "2026-12-19T15:00:00Z",
+      "home": "Liverpool",
+      "away": "Tottenham",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Liverpool%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Tottenham%20Hotspur.png"
+    },
+    {
+      "gameweek": 16,
+      "kickoff": "2026-12-19T15:00:00Z",
+      "home": "Chelsea",
+      "away": "Aston Villa",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Chelsea%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Aston%20Villa.png"
+    },
+    {
+      "gameweek": 17,
+      "kickoff": "2026-12-26T15:00:00Z",
+      "home": "Aston Villa",
+      "away": "Leeds",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Aston%20Villa.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Leeds%20United.png"
+    },
+    {
+      "gameweek": 17,
+      "kickoff": "2026-12-26T15:00:00Z",
+      "home": "Man Utd",
+      "away": "Nott'm Forest",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Nottingham%20Forest.png"
+    },
+    {
+      "gameweek": 17,
+      "kickoff": "2026-12-26T15:00:00Z",
+      "home": "Crystal Palace",
+      "away": "Arsenal",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Crystal%20Palace.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Arsenal%20FC.png"
+    },
+    {
+      "gameweek": 17,
+      "kickoff": "2026-12-26T15:00:00Z",
+      "home": "Everton",
+      "away": "Sunderland",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Everton%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Sunderland%20AFC.png"
+    },
+    {
+      "gameweek": 17,
+      "kickoff": "2026-12-26T15:00:00Z",
+      "home": "Coventry",
+      "away": "Chelsea",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Coventry%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Chelsea%20FC.png"
+    },
+    {
+      "gameweek": 17,
+      "kickoff": "2026-12-26T15:00:00Z",
+      "home": "Newcastle",
+      "away": "Man City",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Newcastle%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20City.png"
+    },
+    {
+      "gameweek": 17,
+      "kickoff": "2026-12-26T15:00:00Z",
+      "home": "Fulham",
+      "away": "Brighton",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Fulham%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brighton%20%26%20Hove%20Albion.png"
+    },
+    {
+      "gameweek": 17,
+      "kickoff": "2026-12-26T15:00:00Z",
+      "home": "Tottenham",
+      "away": "Bournemouth",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Tottenham%20Hotspur.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/AFC%20Bournemouth.png"
+    },
+    {
+      "gameweek": 17,
+      "kickoff": "2026-12-26T15:00:00Z",
+      "home": "Hull City",
+      "away": "Liverpool",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Hull%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Liverpool%20FC.png"
+    },
+    {
+      "gameweek": 17,
+      "kickoff": "2026-12-26T15:00:00Z",
+      "home": "Ipswich",
+      "away": "Brentford",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Ipswich%20Town.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brentford%20FC.png"
+    },
+    {
+      "gameweek": 18,
+      "kickoff": "2026-12-30T20:00:00Z",
+      "home": "Fulham",
+      "away": "Arsenal",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Fulham%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Arsenal%20FC.png"
+    },
+    {
+      "gameweek": 18,
+      "kickoff": "2026-12-30T20:00:00Z",
+      "home": "Coventry",
+      "away": "Brentford",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Coventry%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brentford%20FC.png"
+    },
+    {
+      "gameweek": 18,
+      "kickoff": "2026-12-30T20:00:00Z",
+      "home": "Aston Villa",
+      "away": "Liverpool",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Aston%20Villa.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Liverpool%20FC.png"
+    },
+    {
+      "gameweek": 18,
+      "kickoff": "2026-12-30T20:00:00Z",
+      "home": "Newcastle",
+      "away": "Nott'm Forest",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Newcastle%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Nottingham%20Forest.png"
+    },
+    {
+      "gameweek": 18,
+      "kickoff": "2026-12-30T20:00:00Z",
+      "home": "Hull City",
+      "away": "Leeds",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Hull%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Leeds%20United.png"
+    },
+    {
+      "gameweek": 18,
+      "kickoff": "2026-12-30T20:00:00Z",
+      "home": "Man Utd",
+      "away": "Sunderland",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Sunderland%20AFC.png"
+    },
+    {
+      "gameweek": 18,
+      "kickoff": "2026-12-30T20:00:00Z",
+      "home": "Ipswich",
+      "away": "Chelsea",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Ipswich%20Town.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Chelsea%20FC.png"
+    },
+    {
+      "gameweek": 18,
+      "kickoff": "2026-12-30T20:00:00Z",
+      "home": "Tottenham",
+      "away": "Brighton",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Tottenham%20Hotspur.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brighton%20%26%20Hove%20Albion.png"
+    },
+    {
+      "gameweek": 18,
+      "kickoff": "2026-12-30T20:00:00Z",
+      "home": "Everton",
+      "away": "Man City",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Everton%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20City.png"
+    },
+    {
+      "gameweek": 18,
+      "kickoff": "2026-12-30T20:00:00Z",
+      "home": "Crystal Palace",
+      "away": "Bournemouth",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Crystal%20Palace.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/AFC%20Bournemouth.png"
+    },
+    {
+      "gameweek": 19,
+      "kickoff": "2027-01-02T15:00:00Z",
+      "home": "Bournemouth",
+      "away": "Aston Villa",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/AFC%20Bournemouth.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Aston%20Villa.png"
+    },
+    {
+      "gameweek": 19,
+      "kickoff": "2027-01-02T15:00:00Z",
+      "home": "Brentford",
+      "away": "Crystal Palace",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brentford%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Crystal%20Palace.png"
+    },
+    {
+      "gameweek": 19,
+      "kickoff": "2027-01-02T15:00:00Z",
+      "home": "Leeds",
+      "away": "Everton",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Leeds%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Everton%20FC.png"
+    },
+    {
+      "gameweek": 19,
+      "kickoff": "2027-01-02T15:00:00Z",
+      "home": "Arsenal",
+      "away": "Ipswich",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Arsenal%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Ipswich%20Town.png"
+    },
+    {
+      "gameweek": 19,
+      "kickoff": "2027-01-02T15:00:00Z",
+      "home": "Sunderland",
+      "away": "Hull City",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Sunderland%20AFC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Hull%20City.png"
+    },
+    {
+      "gameweek": 19,
+      "kickoff": "2027-01-02T15:00:00Z",
+      "home": "Liverpool",
+      "away": "Coventry",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Liverpool%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Coventry%20City.png"
+    },
+    {
+      "gameweek": 19,
+      "kickoff": "2027-01-02T15:00:00Z",
+      "home": "Chelsea",
+      "away": "Newcastle",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Chelsea%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Newcastle%20United.png"
+    },
+    {
+      "gameweek": 19,
+      "kickoff": "2027-01-02T15:00:00Z",
+      "home": "Nott'm Forest",
+      "away": "Fulham",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Nottingham%20Forest.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Fulham%20FC.png"
+    },
+    {
+      "gameweek": 19,
+      "kickoff": "2027-01-02T15:00:00Z",
+      "home": "Brighton",
+      "away": "Man Utd",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brighton%20%26%20Hove%20Albion.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20United.png"
+    },
+    {
+      "gameweek": 19,
+      "kickoff": "2027-01-02T15:00:00Z",
+      "home": "Man City",
+      "away": "Tottenham",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Tottenham%20Hotspur.png"
+    },
+    {
+      "gameweek": 20,
+      "kickoff": "2027-01-06T20:00:00Z",
+      "home": "Arsenal",
+      "away": "Brentford",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Arsenal%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brentford%20FC.png"
+    },
+    {
+      "gameweek": 20,
+      "kickoff": "2027-01-06T20:00:00Z",
+      "home": "Leeds",
+      "away": "Man City",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Leeds%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20City.png"
+    },
+    {
+      "gameweek": 20,
+      "kickoff": "2027-01-06T20:00:00Z",
+      "home": "Man Utd",
+      "away": "Newcastle",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Newcastle%20United.png"
+    },
+    {
+      "gameweek": 20,
+      "kickoff": "2027-01-06T20:00:00Z",
+      "home": "Brighton",
+      "away": "Bournemouth",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brighton%20%26%20Hove%20Albion.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/AFC%20Bournemouth.png"
+    },
+    {
+      "gameweek": 20,
+      "kickoff": "2027-01-06T20:00:00Z",
+      "home": "Nott'm Forest",
+      "away": "Hull City",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Nottingham%20Forest.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Hull%20City.png"
+    },
+    {
+      "gameweek": 20,
+      "kickoff": "2027-01-06T20:00:00Z",
+      "home": "Fulham",
+      "away": "Tottenham",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Fulham%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Tottenham%20Hotspur.png"
+    },
+    {
+      "gameweek": 20,
+      "kickoff": "2027-01-06T20:00:00Z",
+      "home": "Everton",
+      "away": "Aston Villa",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Everton%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Aston%20Villa.png"
+    },
+    {
+      "gameweek": 20,
+      "kickoff": "2027-01-06T20:00:00Z",
+      "home": "Sunderland",
+      "away": "Liverpool",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Sunderland%20AFC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Liverpool%20FC.png"
+    },
+    {
+      "gameweek": 20,
+      "kickoff": "2027-01-06T20:00:00Z",
+      "home": "Crystal Palace",
+      "away": "Chelsea",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Crystal%20Palace.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Chelsea%20FC.png"
+    },
+    {
+      "gameweek": 20,
+      "kickoff": "2027-01-06T20:00:00Z",
+      "home": "Ipswich",
+      "away": "Coventry",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Ipswich%20Town.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Coventry%20City.png"
+    },
+    {
+      "gameweek": 21,
+      "kickoff": "2027-01-16T15:00:00Z",
+      "home": "Bournemouth",
+      "away": "Ipswich",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/AFC%20Bournemouth.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Ipswich%20Town.png"
+    },
+    {
+      "gameweek": 21,
+      "kickoff": "2027-01-16T15:00:00Z",
+      "home": "Man City",
+      "away": "Nott'm Forest",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Nottingham%20Forest.png"
+    },
+    {
+      "gameweek": 21,
+      "kickoff": "2027-01-16T15:00:00Z",
+      "home": "Chelsea",
+      "away": "Sunderland",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Chelsea%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Sunderland%20AFC.png"
+    },
+    {
+      "gameweek": 21,
+      "kickoff": "2027-01-16T15:00:00Z",
+      "home": "Brentford",
+      "away": "Brighton",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brentford%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brighton%20%26%20Hove%20Albion.png"
+    },
+    {
+      "gameweek": 21,
+      "kickoff": "2027-01-16T15:00:00Z",
+      "home": "Aston Villa",
+      "away": "Man Utd",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Aston%20Villa.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20United.png"
+    },
+    {
+      "gameweek": 21,
+      "kickoff": "2027-01-16T15:00:00Z",
+      "home": "Tottenham",
+      "away": "Leeds",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Tottenham%20Hotspur.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Leeds%20United.png"
+    },
+    {
+      "gameweek": 21,
+      "kickoff": "2027-01-16T15:00:00Z",
+      "home": "Coventry",
+      "away": "Everton",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Coventry%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Everton%20FC.png"
+    },
+    {
+      "gameweek": 21,
+      "kickoff": "2027-01-16T15:00:00Z",
+      "home": "Liverpool",
+      "away": "Crystal Palace",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Liverpool%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Crystal%20Palace.png"
+    },
+    {
+      "gameweek": 21,
+      "kickoff": "2027-01-16T15:00:00Z",
+      "home": "Hull City",
+      "away": "Arsenal",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Hull%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Arsenal%20FC.png"
+    },
+    {
+      "gameweek": 21,
+      "kickoff": "2027-01-16T15:00:00Z",
+      "home": "Newcastle",
+      "away": "Fulham",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Newcastle%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Fulham%20FC.png"
+    },
+    {
+      "gameweek": 22,
+      "kickoff": "2027-01-23T15:00:00Z",
+      "home": "Ipswich",
+      "away": "Hull City",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Ipswich%20Town.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Hull%20City.png"
+    },
+    {
+      "gameweek": 22,
+      "kickoff": "2027-01-23T15:00:00Z",
+      "home": "Everton",
+      "away": "Brentford",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Everton%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brentford%20FC.png"
+    },
+    {
+      "gameweek": 22,
+      "kickoff": "2027-01-23T15:00:00Z",
+      "home": "Sunderland",
+      "away": "Coventry",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Sunderland%20AFC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Coventry%20City.png"
+    },
+    {
+      "gameweek": 22,
+      "kickoff": "2027-01-23T15:00:00Z",
+      "home": "Nott'm Forest",
+      "away": "Bournemouth",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Nottingham%20Forest.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/AFC%20Bournemouth.png"
+    },
+    {
+      "gameweek": 22,
+      "kickoff": "2027-01-23T15:00:00Z",
+      "home": "Arsenal",
+      "away": "Newcastle",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Arsenal%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Newcastle%20United.png"
+    },
+    {
+      "gameweek": 22,
+      "kickoff": "2027-01-23T15:00:00Z",
+      "home": "Leeds",
+      "away": "Chelsea",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Leeds%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Chelsea%20FC.png"
+    },
+    {
+      "gameweek": 22,
+      "kickoff": "2027-01-23T15:00:00Z",
+      "home": "Fulham",
+      "away": "Aston Villa",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Fulham%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Aston%20Villa.png"
+    },
+    {
+      "gameweek": 22,
+      "kickoff": "2027-01-23T15:00:00Z",
+      "home": "Man Utd",
+      "away": "Liverpool",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Liverpool%20FC.png"
+    },
+    {
+      "gameweek": 22,
+      "kickoff": "2027-01-23T15:00:00Z",
+      "home": "Brighton",
+      "away": "Man City",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brighton%20%26%20Hove%20Albion.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20City.png"
+    },
+    {
+      "gameweek": 22,
+      "kickoff": "2027-01-23T15:00:00Z",
+      "home": "Crystal Palace",
+      "away": "Tottenham",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Crystal%20Palace.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Tottenham%20Hotspur.png"
+    },
+    {
+      "gameweek": 23,
+      "kickoff": "2027-01-30T15:00:00Z",
+      "home": "Tottenham",
+      "away": "Sunderland",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Tottenham%20Hotspur.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Sunderland%20AFC.png"
+    },
+    {
+      "gameweek": 23,
+      "kickoff": "2027-01-30T15:00:00Z",
+      "home": "Brentford",
+      "away": "Man Utd",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brentford%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20United.png"
+    },
+    {
+      "gameweek": 23,
+      "kickoff": "2027-01-30T15:00:00Z",
+      "home": "Newcastle",
+      "away": "Brighton",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Newcastle%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brighton%20%26%20Hove%20Albion.png"
+    },
+    {
+      "gameweek": 23,
+      "kickoff": "2027-01-30T15:00:00Z",
+      "home": "Hull City",
+      "away": "Crystal Palace",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Hull%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Crystal%20Palace.png"
+    },
+    {
+      "gameweek": 23,
+      "kickoff": "2027-01-30T15:00:00Z",
+      "home": "Coventry",
+      "away": "Leeds",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Coventry%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Leeds%20United.png"
+    },
+    {
+      "gameweek": 23,
+      "kickoff": "2027-01-30T15:00:00Z",
+      "home": "Bournemouth",
+      "away": "Fulham",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/AFC%20Bournemouth.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Fulham%20FC.png"
+    },
+    {
+      "gameweek": 23,
+      "kickoff": "2027-01-30T15:00:00Z",
+      "home": "Chelsea",
+      "away": "Nott'm Forest",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Chelsea%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Nottingham%20Forest.png"
+    },
+    {
+      "gameweek": 23,
+      "kickoff": "2027-01-30T15:00:00Z",
+      "home": "Liverpool",
+      "away": "Everton",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Liverpool%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Everton%20FC.png"
+    },
+    {
+      "gameweek": 23,
+      "kickoff": "2027-01-30T15:00:00Z",
+      "home": "Man City",
+      "away": "Arsenal",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Arsenal%20FC.png"
+    },
+    {
+      "gameweek": 23,
+      "kickoff": "2027-01-30T15:00:00Z",
+      "home": "Aston Villa",
+      "away": "Ipswich",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Aston%20Villa.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Ipswich%20Town.png"
+    },
+    {
+      "gameweek": 24,
+      "kickoff": "2027-02-06T15:00:00Z",
+      "home": "Arsenal",
+      "away": "Liverpool",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Arsenal%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Liverpool%20FC.png"
+    },
+    {
+      "gameweek": 24,
+      "kickoff": "2027-02-06T15:00:00Z",
+      "home": "Brighton",
+      "away": "Hull City",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brighton%20%26%20Hove%20Albion.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Hull%20City.png"
+    },
+    {
+      "gameweek": 24,
+      "kickoff": "2027-02-06T15:00:00Z",
+      "home": "Sunderland",
+      "away": "Aston Villa",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Sunderland%20AFC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Aston%20Villa.png"
+    },
+    {
+      "gameweek": 24,
+      "kickoff": "2027-02-06T15:00:00Z",
+      "home": "Crystal Palace",
+      "away": "Coventry",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Crystal%20Palace.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Coventry%20City.png"
+    },
+    {
+      "gameweek": 24,
+      "kickoff": "2027-02-06T15:00:00Z",
+      "home": "Ipswich",
+      "away": "Tottenham",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Ipswich%20Town.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Tottenham%20Hotspur.png"
+    },
+    {
+      "gameweek": 24,
+      "kickoff": "2027-02-06T15:00:00Z",
+      "home": "Everton",
+      "away": "Newcastle",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Everton%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Newcastle%20United.png"
+    },
+    {
+      "gameweek": 24,
+      "kickoff": "2027-02-06T15:00:00Z",
+      "home": "Fulham",
+      "away": "Man City",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Fulham%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20City.png"
+    },
+    {
+      "gameweek": 24,
+      "kickoff": "2027-02-06T15:00:00Z",
+      "home": "Leeds",
+      "away": "Bournemouth",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Leeds%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/AFC%20Bournemouth.png"
+    },
+    {
+      "gameweek": 24,
+      "kickoff": "2027-02-06T15:00:00Z",
+      "home": "Man Utd",
+      "away": "Chelsea",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Chelsea%20FC.png"
+    },
+    {
+      "gameweek": 24,
+      "kickoff": "2027-02-06T15:00:00Z",
+      "home": "Nott'm Forest",
+      "away": "Brentford",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Nottingham%20Forest.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brentford%20FC.png"
+    },
+    {
+      "gameweek": 25,
+      "kickoff": "2027-02-10T20:00:00Z",
+      "home": "Everton",
+      "away": "Leeds",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Everton%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Leeds%20United.png"
+    },
+    {
+      "gameweek": 25,
+      "kickoff": "2027-02-10T20:00:00Z",
+      "home": "Coventry",
+      "away": "Liverpool",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Coventry%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Liverpool%20FC.png"
+    },
+    {
+      "gameweek": 25,
+      "kickoff": "2027-02-10T20:00:00Z",
+      "home": "Hull City",
+      "away": "Sunderland",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Hull%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Sunderland%20AFC.png"
+    },
+    {
+      "gameweek": 25,
+      "kickoff": "2027-02-10T20:00:00Z",
+      "home": "Aston Villa",
+      "away": "Bournemouth",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Aston%20Villa.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/AFC%20Bournemouth.png"
+    },
+    {
+      "gameweek": 25,
+      "kickoff": "2027-02-10T20:00:00Z",
+      "home": "Crystal Palace",
+      "away": "Brentford",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Crystal%20Palace.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brentford%20FC.png"
+    },
+    {
+      "gameweek": 25,
+      "kickoff": "2027-02-10T20:00:00Z",
+      "home": "Newcastle",
+      "away": "Chelsea",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Newcastle%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Chelsea%20FC.png"
+    },
+    {
+      "gameweek": 25,
+      "kickoff": "2027-02-10T20:00:00Z",
+      "home": "Fulham",
+      "away": "Nott'm Forest",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Fulham%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Nottingham%20Forest.png"
+    },
+    {
+      "gameweek": 25,
+      "kickoff": "2027-02-10T20:00:00Z",
+      "home": "Tottenham",
+      "away": "Man City",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Tottenham%20Hotspur.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20City.png"
+    },
+    {
+      "gameweek": 25,
+      "kickoff": "2027-02-10T20:00:00Z",
+      "home": "Man Utd",
+      "away": "Brighton",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brighton%20%26%20Hove%20Albion.png"
+    },
+    {
+      "gameweek": 25,
+      "kickoff": "2027-02-10T20:00:00Z",
+      "home": "Ipswich",
+      "away": "Arsenal",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Ipswich%20Town.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Arsenal%20FC.png"
+    },
+    {
+      "gameweek": 26,
+      "kickoff": "2027-02-20T15:00:00Z",
+      "home": "Man City",
+      "away": "Newcastle",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Newcastle%20United.png"
+    },
+    {
+      "gameweek": 26,
+      "kickoff": "2027-02-20T15:00:00Z",
+      "home": "Bournemouth",
+      "away": "Crystal Palace",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/AFC%20Bournemouth.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Crystal%20Palace.png"
+    },
+    {
+      "gameweek": 26,
+      "kickoff": "2027-02-20T15:00:00Z",
+      "home": "Brentford",
+      "away": "Coventry",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brentford%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Coventry%20City.png"
+    },
+    {
+      "gameweek": 26,
+      "kickoff": "2027-02-20T15:00:00Z",
+      "home": "Chelsea",
+      "away": "Ipswich",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Chelsea%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Ipswich%20Town.png"
+    },
+    {
+      "gameweek": 26,
+      "kickoff": "2027-02-20T15:00:00Z",
+      "home": "Liverpool",
+      "away": "Hull City",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Liverpool%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Hull%20City.png"
+    },
+    {
+      "gameweek": 26,
+      "kickoff": "2027-02-20T15:00:00Z",
+      "home": "Arsenal",
+      "away": "Fulham",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Arsenal%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Fulham%20FC.png"
+    },
+    {
+      "gameweek": 26,
+      "kickoff": "2027-02-20T15:00:00Z",
+      "home": "Nott'm Forest",
+      "away": "Man Utd",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Nottingham%20Forest.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20United.png"
+    },
+    {
+      "gameweek": 26,
+      "kickoff": "2027-02-20T15:00:00Z",
+      "home": "Brighton",
+      "away": "Tottenham",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brighton%20%26%20Hove%20Albion.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Tottenham%20Hotspur.png"
+    },
+    {
+      "gameweek": 26,
+      "kickoff": "2027-02-20T15:00:00Z",
+      "home": "Sunderland",
+      "away": "Everton",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Sunderland%20AFC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Everton%20FC.png"
+    },
+    {
+      "gameweek": 26,
+      "kickoff": "2027-02-20T15:00:00Z",
+      "home": "Leeds",
+      "away": "Aston Villa",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Leeds%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Aston%20Villa.png"
+    },
+    {
+      "gameweek": 27,
+      "kickoff": "2027-02-27T15:00:00Z",
+      "home": "Crystal Palace",
+      "away": "Sunderland",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Crystal%20Palace.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Sunderland%20AFC.png"
+    },
+    {
+      "gameweek": 27,
+      "kickoff": "2027-02-27T15:00:00Z",
+      "home": "Man Utd",
+      "away": "Arsenal",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Arsenal%20FC.png"
+    },
+    {
+      "gameweek": 27,
+      "kickoff": "2027-02-27T15:00:00Z",
+      "home": "Ipswich",
+      "away": "Brighton",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Ipswich%20Town.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brighton%20%26%20Hove%20Albion.png"
+    },
+    {
+      "gameweek": 27,
+      "kickoff": "2027-02-27T15:00:00Z",
+      "home": "Coventry",
+      "away": "Bournemouth",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Coventry%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/AFC%20Bournemouth.png"
+    },
+    {
+      "gameweek": 27,
+      "kickoff": "2027-02-27T15:00:00Z",
+      "home": "Everton",
+      "away": "Nott'm Forest",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Everton%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Nottingham%20Forest.png"
+    },
+    {
+      "gameweek": 27,
+      "kickoff": "2027-02-27T15:00:00Z",
+      "home": "Fulham",
+      "away": "Leeds",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Fulham%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Leeds%20United.png"
+    },
+    {
+      "gameweek": 27,
+      "kickoff": "2027-02-27T15:00:00Z",
+      "home": "Aston Villa",
+      "away": "Chelsea",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Aston%20Villa.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Chelsea%20FC.png"
+    },
+    {
+      "gameweek": 27,
+      "kickoff": "2027-02-27T15:00:00Z",
+      "home": "Tottenham",
+      "away": "Liverpool",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Tottenham%20Hotspur.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Liverpool%20FC.png"
+    },
+    {
+      "gameweek": 27,
+      "kickoff": "2027-02-27T15:00:00Z",
+      "home": "Newcastle",
+      "away": "Brentford",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Newcastle%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brentford%20FC.png"
+    },
+    {
+      "gameweek": 27,
+      "kickoff": "2027-02-27T15:00:00Z",
+      "home": "Hull City",
+      "away": "Man City",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Hull%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20City.png"
+    },
+    {
+      "gameweek": 28,
+      "kickoff": "2027-03-03T20:00:00Z",
+      "home": "Nott'm Forest",
+      "away": "Newcastle",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Nottingham%20Forest.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Newcastle%20United.png"
+    },
+    {
+      "gameweek": 28,
+      "kickoff": "2027-03-03T20:00:00Z",
+      "home": "Bournemouth",
+      "away": "Tottenham",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/AFC%20Bournemouth.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Tottenham%20Hotspur.png"
+    },
+    {
+      "gameweek": 28,
+      "kickoff": "2027-03-03T20:00:00Z",
+      "home": "Man City",
+      "away": "Everton",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Everton%20FC.png"
+    },
+    {
+      "gameweek": 28,
+      "kickoff": "2027-03-03T20:00:00Z",
+      "home": "Arsenal",
+      "away": "Crystal Palace",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Arsenal%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Crystal%20Palace.png"
+    },
+    {
+      "gameweek": 28,
+      "kickoff": "2027-03-03T20:00:00Z",
+      "home": "Leeds",
+      "away": "Hull City",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Leeds%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Hull%20City.png"
+    },
+    {
+      "gameweek": 28,
+      "kickoff": "2027-03-03T20:00:00Z",
+      "home": "Sunderland",
+      "away": "Man Utd",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Sunderland%20AFC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20United.png"
+    },
+    {
+      "gameweek": 28,
+      "kickoff": "2027-03-03T20:00:00Z",
+      "home": "Liverpool",
+      "away": "Aston Villa",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Liverpool%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Aston%20Villa.png"
+    },
+    {
+      "gameweek": 28,
+      "kickoff": "2027-03-03T20:00:00Z",
+      "home": "Brighton",
+      "away": "Fulham",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brighton%20%26%20Hove%20Albion.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Fulham%20FC.png"
+    },
+    {
+      "gameweek": 28,
+      "kickoff": "2027-03-03T20:00:00Z",
+      "home": "Brentford",
+      "away": "Ipswich",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brentford%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Ipswich%20Town.png"
+    },
+    {
+      "gameweek": 28,
+      "kickoff": "2027-03-03T20:00:00Z",
+      "home": "Chelsea",
+      "away": "Coventry",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Chelsea%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Coventry%20City.png"
+    },
+    {
+      "gameweek": 29,
+      "kickoff": "2027-03-13T15:00:00Z",
+      "home": "Leeds",
+      "away": "Brighton",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Leeds%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brighton%20%26%20Hove%20Albion.png"
+    },
+    {
+      "gameweek": 29,
+      "kickoff": "2027-03-13T15:00:00Z",
+      "home": "Tottenham",
+      "away": "Nott'm Forest",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Tottenham%20Hotspur.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Nottingham%20Forest.png"
+    },
+    {
+      "gameweek": 29,
+      "kickoff": "2027-03-13T15:00:00Z",
+      "home": "Crystal Palace",
+      "away": "Fulham",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Crystal%20Palace.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Fulham%20FC.png"
+    },
+    {
+      "gameweek": 29,
+      "kickoff": "2027-03-13T15:00:00Z",
+      "home": "Liverpool",
+      "away": "Ipswich",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Liverpool%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Ipswich%20Town.png"
+    },
+    {
+      "gameweek": 29,
+      "kickoff": "2027-03-13T15:00:00Z",
+      "home": "Coventry",
+      "away": "Man City",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Coventry%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20City.png"
+    },
+    {
+      "gameweek": 29,
+      "kickoff": "2027-03-13T15:00:00Z",
+      "home": "Bournemouth",
+      "away": "Newcastle",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/AFC%20Bournemouth.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Newcastle%20United.png"
+    },
+    {
+      "gameweek": 29,
+      "kickoff": "2027-03-13T15:00:00Z",
+      "home": "Chelsea",
+      "away": "Arsenal",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Chelsea%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Arsenal%20FC.png"
+    },
+    {
+      "gameweek": 29,
+      "kickoff": "2027-03-13T15:00:00Z",
+      "home": "Aston Villa",
+      "away": "Hull City",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Aston%20Villa.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Hull%20City.png"
+    },
+    {
+      "gameweek": 29,
+      "kickoff": "2027-03-13T15:00:00Z",
+      "home": "Man Utd",
+      "away": "Everton",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Everton%20FC.png"
+    },
+    {
+      "gameweek": 29,
+      "kickoff": "2027-03-13T15:00:00Z",
+      "home": "Sunderland",
+      "away": "Brentford",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Sunderland%20AFC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brentford%20FC.png"
+    },
+    {
+      "gameweek": 30,
+      "kickoff": "2027-03-20T15:00:00Z",
+      "home": "Brentford",
+      "away": "Bournemouth",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brentford%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/AFC%20Bournemouth.png"
+    },
+    {
+      "gameweek": 30,
+      "kickoff": "2027-03-20T15:00:00Z",
+      "home": "Brighton",
+      "away": "Coventry",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brighton%20%26%20Hove%20Albion.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Coventry%20City.png"
+    },
+    {
+      "gameweek": 30,
+      "kickoff": "2027-03-20T15:00:00Z",
+      "home": "Man City",
+      "away": "Man Utd",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20United.png"
+    },
+    {
+      "gameweek": 30,
+      "kickoff": "2027-03-20T15:00:00Z",
+      "home": "Ipswich",
+      "away": "Crystal Palace",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Ipswich%20Town.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Crystal%20Palace.png"
+    },
+    {
+      "gameweek": 30,
+      "kickoff": "2027-03-20T15:00:00Z",
+      "home": "Arsenal",
+      "away": "Sunderland",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Arsenal%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Sunderland%20AFC.png"
+    },
+    {
+      "gameweek": 30,
+      "kickoff": "2027-03-20T15:00:00Z",
+      "home": "Fulham",
+      "away": "Liverpool",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Fulham%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Liverpool%20FC.png"
+    },
+    {
+      "gameweek": 30,
+      "kickoff": "2027-03-20T15:00:00Z",
+      "home": "Hull City",
+      "away": "Chelsea",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Hull%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Chelsea%20FC.png"
+    },
+    {
+      "gameweek": 30,
+      "kickoff": "2027-03-20T15:00:00Z",
+      "home": "Nott'm Forest",
+      "away": "Aston Villa",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Nottingham%20Forest.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Aston%20Villa.png"
+    },
+    {
+      "gameweek": 30,
+      "kickoff": "2027-03-20T15:00:00Z",
+      "home": "Everton",
+      "away": "Tottenham",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Everton%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Tottenham%20Hotspur.png"
+    },
+    {
+      "gameweek": 30,
+      "kickoff": "2027-03-20T15:00:00Z",
+      "home": "Newcastle",
+      "away": "Leeds",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Newcastle%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Leeds%20United.png"
+    },
+    {
+      "gameweek": 31,
+      "kickoff": "2027-04-10T14:00:00Z",
+      "home": "Sunderland",
+      "away": "Ipswich",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Sunderland%20AFC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Ipswich%20Town.png"
+    },
+    {
+      "gameweek": 31,
+      "kickoff": "2027-04-10T14:00:00Z",
+      "home": "Leeds",
+      "away": "Nott'm Forest",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Leeds%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Nottingham%20Forest.png"
+    },
+    {
+      "gameweek": 31,
+      "kickoff": "2027-04-10T14:00:00Z",
+      "home": "Man Utd",
+      "away": "Hull City",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Hull%20City.png"
+    },
+    {
+      "gameweek": 31,
+      "kickoff": "2027-04-10T14:00:00Z",
+      "home": "Chelsea",
+      "away": "Fulham",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Chelsea%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Fulham%20FC.png"
+    },
+    {
+      "gameweek": 31,
+      "kickoff": "2027-04-10T14:00:00Z",
+      "home": "Liverpool",
+      "away": "Newcastle",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Liverpool%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Newcastle%20United.png"
+    },
+    {
+      "gameweek": 31,
+      "kickoff": "2027-04-10T14:00:00Z",
+      "home": "Coventry",
+      "away": "Arsenal",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Coventry%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Arsenal%20FC.png"
+    },
+    {
+      "gameweek": 31,
+      "kickoff": "2027-04-10T14:00:00Z",
+      "home": "Bournemouth",
+      "away": "Man City",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/AFC%20Bournemouth.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20City.png"
+    },
+    {
+      "gameweek": 31,
+      "kickoff": "2027-04-10T14:00:00Z",
+      "home": "Crystal Palace",
+      "away": "Everton",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Crystal%20Palace.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Everton%20FC.png"
+    },
+    {
+      "gameweek": 31,
+      "kickoff": "2027-04-10T14:00:00Z",
+      "home": "Tottenham",
+      "away": "Brentford",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Tottenham%20Hotspur.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brentford%20FC.png"
+    },
+    {
+      "gameweek": 31,
+      "kickoff": "2027-04-10T14:00:00Z",
+      "home": "Aston Villa",
+      "away": "Brighton",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Aston%20Villa.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brighton%20%26%20Hove%20Albion.png"
+    },
+    {
+      "gameweek": 32,
+      "kickoff": "2027-04-17T14:00:00Z",
+      "home": "Brighton",
+      "away": "Chelsea",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brighton%20%26%20Hove%20Albion.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Chelsea%20FC.png"
+    },
+    {
+      "gameweek": 32,
+      "kickoff": "2027-04-17T14:00:00Z",
+      "home": "Fulham",
+      "away": "Sunderland",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Fulham%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Sunderland%20AFC.png"
+    },
+    {
+      "gameweek": 32,
+      "kickoff": "2027-04-17T14:00:00Z",
+      "home": "Brentford",
+      "away": "Leeds",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brentford%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Leeds%20United.png"
+    },
+    {
+      "gameweek": 32,
+      "kickoff": "2027-04-17T14:00:00Z",
+      "home": "Nott'm Forest",
+      "away": "Liverpool",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Nottingham%20Forest.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Liverpool%20FC.png"
+    },
+    {
+      "gameweek": 32,
+      "kickoff": "2027-04-17T14:00:00Z",
+      "home": "Hull City",
+      "away": "Coventry",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Hull%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Coventry%20City.png"
+    },
+    {
+      "gameweek": 32,
+      "kickoff": "2027-04-17T14:00:00Z",
+      "home": "Arsenal",
+      "away": "Aston Villa",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Arsenal%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Aston%20Villa.png"
+    },
+    {
+      "gameweek": 32,
+      "kickoff": "2027-04-17T14:00:00Z",
+      "home": "Ipswich",
+      "away": "Man Utd",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Ipswich%20Town.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20United.png"
+    },
+    {
+      "gameweek": 32,
+      "kickoff": "2027-04-17T14:00:00Z",
+      "home": "Man City",
+      "away": "Crystal Palace",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Crystal%20Palace.png"
+    },
+    {
+      "gameweek": 32,
+      "kickoff": "2027-04-17T14:00:00Z",
+      "home": "Newcastle",
+      "away": "Tottenham",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Newcastle%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Tottenham%20Hotspur.png"
+    },
+    {
+      "gameweek": 32,
+      "kickoff": "2027-04-17T14:00:00Z",
+      "home": "Everton",
+      "away": "Bournemouth",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Everton%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/AFC%20Bournemouth.png"
+    },
+    {
+      "gameweek": 33,
+      "kickoff": "2027-04-24T14:00:00Z",
+      "home": "Chelsea",
+      "away": "Man City",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Chelsea%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20City.png"
+    },
+    {
+      "gameweek": 33,
+      "kickoff": "2027-04-24T14:00:00Z",
+      "home": "Bournemouth",
+      "away": "Arsenal",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/AFC%20Bournemouth.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Arsenal%20FC.png"
+    },
+    {
+      "gameweek": 33,
+      "kickoff": "2027-04-24T14:00:00Z",
+      "home": "Tottenham",
+      "away": "Hull City",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Tottenham%20Hotspur.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Hull%20City.png"
+    },
+    {
+      "gameweek": 33,
+      "kickoff": "2027-04-24T14:00:00Z",
+      "home": "Man Utd",
+      "away": "Crystal Palace",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Crystal%20Palace.png"
+    },
+    {
+      "gameweek": 33,
+      "kickoff": "2027-04-24T14:00:00Z",
+      "home": "Everton",
+      "away": "Brighton",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Everton%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brighton%20%26%20Hove%20Albion.png"
+    },
+    {
+      "gameweek": 33,
+      "kickoff": "2027-04-24T14:00:00Z",
+      "home": "Nott'm Forest",
+      "away": "Sunderland",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Nottingham%20Forest.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Sunderland%20AFC.png"
+    },
+    {
+      "gameweek": 33,
+      "kickoff": "2027-04-24T14:00:00Z",
+      "home": "Newcastle",
+      "away": "Ipswich",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Newcastle%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Ipswich%20Town.png"
+    },
+    {
+      "gameweek": 33,
+      "kickoff": "2027-04-24T14:00:00Z",
+      "home": "Aston Villa",
+      "away": "Coventry",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Aston%20Villa.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Coventry%20City.png"
+    },
+    {
+      "gameweek": 33,
+      "kickoff": "2027-04-24T14:00:00Z",
+      "home": "Brentford",
+      "away": "Fulham",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brentford%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Fulham%20FC.png"
+    },
+    {
+      "gameweek": 33,
+      "kickoff": "2027-04-24T14:00:00Z",
+      "home": "Leeds",
+      "away": "Liverpool",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Leeds%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Liverpool%20FC.png"
+    },
+    {
+      "gameweek": 34,
+      "kickoff": "2027-05-01T14:00:00Z",
+      "home": "Sunderland",
+      "away": "Newcastle",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Sunderland%20AFC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Newcastle%20United.png"
+    },
+    {
+      "gameweek": 34,
+      "kickoff": "2027-05-01T14:00:00Z",
+      "home": "Brighton",
+      "away": "Nott'm Forest",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brighton%20%26%20Hove%20Albion.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Nottingham%20Forest.png"
+    },
+    {
+      "gameweek": 34,
+      "kickoff": "2027-05-01T14:00:00Z",
+      "home": "Coventry",
+      "away": "Man Utd",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Coventry%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20United.png"
+    },
+    {
+      "gameweek": 34,
+      "kickoff": "2027-05-01T14:00:00Z",
+      "home": "Hull City",
+      "away": "Bournemouth",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Hull%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/AFC%20Bournemouth.png"
+    },
+    {
+      "gameweek": 34,
+      "kickoff": "2027-05-01T14:00:00Z",
+      "home": "Man City",
+      "away": "Brentford",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brentford%20FC.png"
+    },
+    {
+      "gameweek": 34,
+      "kickoff": "2027-05-01T14:00:00Z",
+      "home": "Fulham",
+      "away": "Everton",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Fulham%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Everton%20FC.png"
+    },
+    {
+      "gameweek": 34,
+      "kickoff": "2027-05-01T14:00:00Z",
+      "home": "Liverpool",
+      "away": "Chelsea",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Liverpool%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Chelsea%20FC.png"
+    },
+    {
+      "gameweek": 34,
+      "kickoff": "2027-05-01T14:00:00Z",
+      "home": "Arsenal",
+      "away": "Tottenham",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Arsenal%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Tottenham%20Hotspur.png"
+    },
+    {
+      "gameweek": 34,
+      "kickoff": "2027-05-01T14:00:00Z",
+      "home": "Crystal Palace",
+      "away": "Aston Villa",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Crystal%20Palace.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Aston%20Villa.png"
+    },
+    {
+      "gameweek": 34,
+      "kickoff": "2027-05-01T14:00:00Z",
+      "home": "Ipswich",
+      "away": "Leeds",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Ipswich%20Town.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Leeds%20United.png"
+    },
+    {
+      "gameweek": 35,
+      "kickoff": "2027-05-08T14:00:00Z",
+      "home": "Man City",
+      "away": "Liverpool",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Liverpool%20FC.png"
+    },
+    {
+      "gameweek": 35,
+      "kickoff": "2027-05-08T14:00:00Z",
+      "home": "Leeds",
+      "away": "Arsenal",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Leeds%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Arsenal%20FC.png"
+    },
+    {
+      "gameweek": 35,
+      "kickoff": "2027-05-08T14:00:00Z",
+      "home": "Fulham",
+      "away": "Ipswich",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Fulham%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Ipswich%20Town.png"
+    },
+    {
+      "gameweek": 35,
+      "kickoff": "2027-05-08T14:00:00Z",
+      "home": "Nott'm Forest",
+      "away": "Crystal Palace",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Nottingham%20Forest.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Crystal%20Palace.png"
+    },
+    {
+      "gameweek": 35,
+      "kickoff": "2027-05-08T14:00:00Z",
+      "home": "Brentford",
+      "away": "Aston Villa",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brentford%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Aston%20Villa.png"
+    },
+    {
+      "gameweek": 35,
+      "kickoff": "2027-05-08T14:00:00Z",
+      "home": "Newcastle",
+      "away": "Coventry",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Newcastle%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Coventry%20City.png"
+    },
+    {
+      "gameweek": 35,
+      "kickoff": "2027-05-08T14:00:00Z",
+      "home": "Brighton",
+      "away": "Sunderland",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brighton%20%26%20Hove%20Albion.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Sunderland%20AFC.png"
+    },
+    {
+      "gameweek": 35,
+      "kickoff": "2027-05-08T14:00:00Z",
+      "home": "Tottenham",
+      "away": "Chelsea",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Tottenham%20Hotspur.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Chelsea%20FC.png"
+    },
+    {
+      "gameweek": 35,
+      "kickoff": "2027-05-08T14:00:00Z",
+      "home": "Everton",
+      "away": "Hull City",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Everton%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Hull%20City.png"
+    },
+    {
+      "gameweek": 35,
+      "kickoff": "2027-05-08T14:00:00Z",
+      "home": "Bournemouth",
+      "away": "Man Utd",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/AFC%20Bournemouth.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20United.png"
+    },
+    {
+      "gameweek": 36,
+      "kickoff": "2027-05-15T14:00:00Z",
+      "home": "Hull City",
+      "away": "Fulham",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Hull%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Fulham%20FC.png"
+    },
+    {
+      "gameweek": 36,
+      "kickoff": "2027-05-15T14:00:00Z",
+      "home": "Man Utd",
+      "away": "Leeds",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Leeds%20United.png"
+    },
+    {
+      "gameweek": 36,
+      "kickoff": "2027-05-15T14:00:00Z",
+      "home": "Crystal Palace",
+      "away": "Brighton",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Crystal%20Palace.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brighton%20%26%20Hove%20Albion.png"
+    },
+    {
+      "gameweek": 36,
+      "kickoff": "2027-05-15T14:00:00Z",
+      "home": "Aston Villa",
+      "away": "Newcastle",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Aston%20Villa.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Newcastle%20United.png"
+    },
+    {
+      "gameweek": 36,
+      "kickoff": "2027-05-15T14:00:00Z",
+      "home": "Chelsea",
+      "away": "Everton",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Chelsea%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Everton%20FC.png"
+    },
+    {
+      "gameweek": 36,
+      "kickoff": "2027-05-15T14:00:00Z",
+      "home": "Coventry",
+      "away": "Tottenham",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Coventry%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Tottenham%20Hotspur.png"
+    },
+    {
+      "gameweek": 36,
+      "kickoff": "2027-05-15T14:00:00Z",
+      "home": "Sunderland",
+      "away": "Bournemouth",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Sunderland%20AFC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/AFC%20Bournemouth.png"
+    },
+    {
+      "gameweek": 36,
+      "kickoff": "2027-05-15T14:00:00Z",
+      "home": "Liverpool",
+      "away": "Brentford",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Liverpool%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brentford%20FC.png"
+    },
+    {
+      "gameweek": 36,
+      "kickoff": "2027-05-15T14:00:00Z",
+      "home": "Ipswich",
+      "away": "Man City",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Ipswich%20Town.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20City.png"
+    },
+    {
+      "gameweek": 36,
+      "kickoff": "2027-05-15T14:00:00Z",
+      "home": "Arsenal",
+      "away": "Nott'm Forest",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Arsenal%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Nottingham%20Forest.png"
+    },
+    {
+      "gameweek": 37,
+      "kickoff": "2027-05-23T14:00:00Z",
+      "home": "Brentford",
+      "away": "Hull City",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brentford%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Hull%20City.png"
+    },
+    {
+      "gameweek": 37,
+      "kickoff": "2027-05-23T14:00:00Z",
+      "home": "Newcastle",
+      "away": "Crystal Palace",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Newcastle%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Crystal%20Palace.png"
+    },
+    {
+      "gameweek": 37,
+      "kickoff": "2027-05-23T14:00:00Z",
+      "home": "Tottenham",
+      "away": "Man Utd",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Tottenham%20Hotspur.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20United.png"
+    },
+    {
+      "gameweek": 37,
+      "kickoff": "2027-05-23T14:00:00Z",
+      "home": "Leeds",
+      "away": "Sunderland",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Leeds%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Sunderland%20AFC.png"
+    },
+    {
+      "gameweek": 37,
+      "kickoff": "2027-05-23T14:00:00Z",
+      "home": "Brighton",
+      "away": "Liverpool",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brighton%20%26%20Hove%20Albion.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Liverpool%20FC.png"
+    },
+    {
+      "gameweek": 37,
+      "kickoff": "2027-05-23T14:00:00Z",
+      "home": "Nott'm Forest",
+      "away": "Ipswich",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Nottingham%20Forest.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Ipswich%20Town.png"
+    },
+    {
+      "gameweek": 37,
+      "kickoff": "2027-05-23T14:00:00Z",
+      "home": "Bournemouth",
+      "away": "Chelsea",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/AFC%20Bournemouth.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Chelsea%20FC.png"
+    },
+    {
+      "gameweek": 37,
+      "kickoff": "2027-05-23T14:00:00Z",
+      "home": "Fulham",
+      "away": "Coventry",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Fulham%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Coventry%20City.png"
+    },
+    {
+      "gameweek": 37,
+      "kickoff": "2027-05-23T14:00:00Z",
+      "home": "Everton",
+      "away": "Arsenal",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Everton%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Arsenal%20FC.png"
+    },
+    {
+      "gameweek": 37,
+      "kickoff": "2027-05-23T14:00:00Z",
+      "home": "Man City",
+      "away": "Aston Villa",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Aston%20Villa.png"
+    },
+    {
+      "gameweek": 38,
+      "kickoff": "2027-05-30T15:00:00Z",
+      "home": "Ipswich",
+      "away": "Everton",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Ipswich%20Town.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Everton%20FC.png"
+    },
+    {
+      "gameweek": 38,
+      "kickoff": "2027-05-30T15:00:00Z",
+      "home": "Arsenal",
+      "away": "Brighton",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Arsenal%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brighton%20%26%20Hove%20Albion.png"
+    },
+    {
+      "gameweek": 38,
+      "kickoff": "2027-05-30T15:00:00Z",
+      "home": "Liverpool",
+      "away": "Bournemouth",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Liverpool%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/AFC%20Bournemouth.png"
+    },
+    {
+      "gameweek": 38,
+      "kickoff": "2027-05-30T15:00:00Z",
+      "home": "Coventry",
+      "away": "Nott'm Forest",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Coventry%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Nottingham%20Forest.png"
+    },
+    {
+      "gameweek": 38,
+      "kickoff": "2027-05-30T15:00:00Z",
+      "home": "Aston Villa",
+      "away": "Tottenham",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Aston%20Villa.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Tottenham%20Hotspur.png"
+    },
+    {
+      "gameweek": 38,
+      "kickoff": "2027-05-30T15:00:00Z",
+      "home": "Hull City",
+      "away": "Newcastle",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Hull%20City.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Newcastle%20United.png"
+    },
+    {
+      "gameweek": 38,
+      "kickoff": "2027-05-30T15:00:00Z",
+      "home": "Man Utd",
+      "away": "Fulham",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20United.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Fulham%20FC.png"
+    },
+    {
+      "gameweek": 38,
+      "kickoff": "2027-05-30T15:00:00Z",
+      "home": "Sunderland",
+      "away": "Man City",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Sunderland%20AFC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Manchester%20City.png"
+    },
+    {
+      "gameweek": 38,
+      "kickoff": "2027-05-30T15:00:00Z",
+      "home": "Chelsea",
+      "away": "Brentford",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Chelsea%20FC.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Brentford%20FC.png"
+    },
+    {
+      "gameweek": 38,
+      "kickoff": "2027-05-30T15:00:00Z",
+      "home": "Crystal Palace",
+      "away": "Leeds",
+      "home_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Crystal%20Palace.png",
+      "away_logo": "https://cdn.jsdelivr.net/gh/luukhopman/football-logos@master/logos/England%20-%20Premier%20League/Leeds%20United.png"
+    }
+  ]
+}
